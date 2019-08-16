@@ -3,7 +3,7 @@
 %Purpose: Extract image files from Gatan Digital Micrograph in-situ folder
 %tree system, crop them, and save the cropped images as a 16bit tif file 
 
-    %%Input: 
+    %%Input: this is a test
 % 1) A text file (written by a Digital Micrograph script) that contains
 %the dimensions of the ROI that will be cropped (ex: left right down up)
 
